@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"ส่งรักส่งยิ้ม (Frontend)",
+        "description":"เป็นฟอร์มเว็บแอปสำหรับกิจกรรมวาเลนไทน์ของทางโรงเรียน ที่สามารถขอข้อมูล/รูปภาพของคนที่เราแอบชอบอยู่ได้!",
+        "git_link": "https://github.com/councilpcshsst/councilpcshsst.github.io",
+        "img": "songrak.png"
+    },
+    {
+        "id":2,
+        "name":"หมอเคียงคุณ",
+        "description":"Web Application สร้างด้วยภาษา PHP เป็นเว็บเกี่ยวกับฐานข้อมูลห้องพยาบาลโรงเรียน (ยังไม่สมบูรณ์)",
+        "git_link": "https://github.com/TheNongice/docside_php",
+        "img":"docside.png"
+    },
+    {
+        "id":3,
+        "name":"เว็บสุ่มข้อความ",
+        "description":"เป็นเว็บสุ่มข้อความโดยจะมีข้อความวิ่งรันไปเรื่อยๆ จนกว่าจะหลุดโดยสาเหตุที่ลงมือทำเว็บนี้ขึ้นมานั้นเป็นเพราะว่าเว็บไซต์ประมาณนี้หาไม่ได้หรือหาเจอยากมาก จึงได้สร้างขึ้นมาเป็นต้นแบบและคาดว่านำไปใช้ในอนาคตกับงานสภานักเรียน",
+        "git_link": "https://github.com/Council-PCSHSST/random_text",
+        "img":"random.png"
+    },
+    {
+        "id":4,
+        "name":"ส่งรักส่งยิ้ม (Backend)",
+        "description":"เป็นตัวที่จัดการระบบ Request ทั้งหมดที่มาจากบนฟอร์มแล้วทำการบันทึกลงใน Google Sheets ผ่าน API ของ Google App Script และใช้ MySQL ในการดึงรายชื่อนักเรียนจากระบบขึ้นมา <strong>รูปภาพนี้เป็นรูปตอนที่ Start เซิร์ฟเวอร์ขึ้นมาผ่าน PM2 ด้วยเหตุผลข้อมูลส่วนตัวของนักเรียนในโรงเรียนจึงไม่สามารถนำรูป Logs ตัวจริงขึ้นมาได้</strong>",
+        "git_link": "https://github.com/Council-PCSHSST/Songrak_API",
+        "img":"songrak_api.png"
+    },
+    {
+        "id":5,
+        "name":"เครื่องมือโหลดเพลงเสียงตามสาย (YouTube)",
+        "description":"ตอนนั้นสร้างโปรแกรมนี้ขึ้นมาเพราะว่ารำคาญที่จะต้องโหลดเพลงหลายเพลงแบบทีละรอบเลยสร้างโปรแกรมขึ้นมาเพื่อสามารถโหลดได้ภายในเวลาเดียวกัน",
+        "git_link": "https://github.com/Council-PCSHSST/music_yt",
+        "img":"none"
+    },
+    {
+        "id":6,
+        "name":"โปรแกรมคำนวณทางภูมิศาสตร์",
+        "description":"โปรเจ็กต์ชิ้นงานจบชั้นมัธยมศึกษาปีที่ 4 วิชาวิทยาการคำนวณ",
+        "git_link": "https://github.com/TheNongice/Python-Mini-M.4",
+        "img":"geo_comp.png"
+    }
+]
